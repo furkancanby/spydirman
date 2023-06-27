@@ -1,6 +1,9 @@
 # spydirman
-Website image downloader from source code.
-I am currently developing this project.
-You can download all images from any websites source code
+It downloads all images from a specific website
 
-Friendly neighborhood spydirman :)
+Usage: 
+```python
+python3 spydirman.py <URL> <OUTPUT_FOLDER>
+```
+
+Friendly neighborhood spydirman (:
